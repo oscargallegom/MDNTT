@@ -211,7 +211,7 @@ body {
 <table width=675 cellpadding=15>
 <tr><td>
 <?php /* <h2 class="header_left_content">Welcome To Maryland's Nutrient Trading Program . . . .</h2> */ ?>
-<h2 class="header_left_content">Welcome to the Maryland Nutrient Trading Program . . . </h2>
+<h2 class="header_left_content">Welcome to the Maryland Nutrient Trading Program . . . . </h2>
 
 <div style="padding: 1em; border: 1px solid #296AAB">
 
@@ -277,7 +277,7 @@ Over the years, pollution levels in the Chesapeake Bay have been increasing. Chi
 
 <p class="text_left_content">
 Maryland&rsquo;s Nutrient Trading Program is a public marketplace for the buying and selling of nutrient (nitrogen and phosphorous) credits.  The purpose of the Program ranges from being able to offset new or increased discharges to establishing economic incentives for reductions from all sources within a watershed and achieving greater environmental benefits than through,  existing regulatory programs. To facilitate trading, a web-based <a href="http://www.mdnutrienttrading.com/">Calculation Tool, Marketplace and Trading Registry</a> have been established. The Calculation Tool will assess credit generating capacity while the Market Place and Trading Registry will record approved credits and transactions and provide a means for the public to track the progress of Maryland's trading program.</br>
-<a href="http://www.mdnutrienttrading.com/ntwhatis.php">More</a>  . . . 
+<a href="http://www.mdnutrienttrading.com/ntwhatis.php">More</a>  . . . .
 </p> 
 
 <?php /*
