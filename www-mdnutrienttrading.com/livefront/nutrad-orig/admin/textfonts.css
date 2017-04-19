@@ -1,0 +1,277 @@
+.headline_large
+{
+
+		text-decoration: none;
+		font-size: 24px;
+		font-weight: bold;
+		color: 660000;
+		font-family: Gerogia, Garamond, Times New Roman; 
+		
+
+}
+
+
+.headline_medium
+{
+
+		text-decoration: none;
+		font-size: 16px;
+		font-weight: bold;
+		color: 660000;
+		font-family: Gerogia, Garamond, Times New Roman; 
+		
+
+}
+
+.header_large
+{
+
+		text-decoration: none;
+		font-weight: bold;
+		font-size: 18px;
+		color: 7B7B7B;
+		font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; 
+		
+
+}
+
+.callout_large
+{
+
+		text-decoration: none;
+		font-weight: bold;
+		font-size: 16px;
+		color: 000000;
+		font-family: Gerogia, Garamond, Times New Roman; 
+		
+
+}
+
+.callout_small
+{
+
+		text-decoration: none;
+		font-weight: bold;
+		font-size: 14px;
+		color: 000000;
+		font-family: Gerogia, Garamond, Times New Roman; 
+		
+
+}
+
+.header_medium
+{
+
+	 	text-decoration: none;
+		font-weight: bold;
+		font-size: 14px;
+		color: 7B7B7B;
+		font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; 
+		
+
+}
+
+
+.header_medium_red
+{
+
+	 	text-decoration: none;
+		font-weight: bold;
+		font-size: 14px;
+		color: 660000;
+		font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; 
+		
+
+}
+
+
+.header_small_red
+{
+
+	 	text-decoration: none;
+		font-weight: bold;
+		font-size: 12px;
+		color: 660000;
+		font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; 
+		
+
+}
+
+.header_small
+{
+
+		text-decoration: none;
+		font-weight: bold;
+		font-size: 12px;
+		color: 7B7B7B;
+		font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; 
+		
+
+}
+
+
+
+.text
+{
+
+		text-decoration: none;
+		font-size: 12px;
+		color: 000000;
+		font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; 
+		
+
+}
+
+.text_gray
+{
+
+		text-decoration: none;
+		font-size: 12px;
+		color: 7B7B7B;
+		font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; 
+		
+
+}
+
+
+.text_brown
+{
+
+		text-decoration: none;
+		font-size: 10px;
+		color: 726334;
+		font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; 
+		
+
+}
+
+.text_date
+{
+
+		text-decoration: none;
+		font-size: 11px;
+        font-weight: bold;
+		color: FFFFFF;
+		font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; 
+		
+
+}
+
+
+
+
+.text_caption
+{
+
+		text-decoration: none;
+		font-size: 10px;
+		color: 666666;
+		font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; 
+		
+
+}
+
+.text_sup
+{
+
+		text-decoration: none;
+		font-size: 9px;
+		color: 666666;
+		font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; 
+		
+
+}
+
+
+
+a.link_main
+{
+
+		text-decoration: none;
+		font-weight: bold;
+		font-size: 12px;
+		color: 726334;
+		font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; 
+		
+
+}
+
+
+
+
+a.link_header
+{
+
+		text-decoration: none;
+		font-weight: bold;
+		font-size: 14px;
+		color: 726334;
+		font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; 
+		
+
+}
+
+
+a.link_top
+{
+
+		text-decoration: none;
+		font-weight: bold;
+		font-size: 12px;
+		color: CCCC99;
+		font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; 
+		
+
+}
+
+
+
+a.link_1
+{
+
+		text-decoration: none;
+		font-size: 11px;
+		color: 841408;
+		font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; 
+		
+
+}
+
+
+a.link_2
+{
+
+		text-decoration: none;
+		font-size: 11px;
+		color: 6D5031;
+		font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; 
+		
+
+}
+
+
+a.link_3
+{
+
+		text-decoration: none;
+		font-size: 11px;
+		color: 9B9581;
+		font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; 
+		
+
+}
+
+a.link_folder
+{
+
+		text-decoration: none;
+		font-size: 10px;
+		color: 666666;
+		font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; 
+		
+
+}
+
+
+
+

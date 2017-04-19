@@ -1,0 +1,179 @@
+/* CSS Document */
+
+/* hides accessibility & handheld elements */
+
+.hide {
+	position: absolute;
+	left: -9999px;
+	background: inherit;
+}
+.handheld {
+	display: none;
+}
+
+/*********** General Styles ***********/
+
+body {
+background-image: url("../images/page/background.gif");
+background-color: #2A579C;
+margin: 0px;
+padding: 0px;
+}
+
+/*********** Page Layout ***********/
+
+#container {
+/*	text-align: left;
+	margin-top:0px;
+	margin-bottom:0px;
+	padding: 0px;*/
+	width: 1000px;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	margin-top:0px;
+	margin-bottom:0px;
+	background-color: #CCCCCC;
+	padding: 0px;
+	min-width: 800px;
+}
+#banner {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 80%;
+	height: 112px;
+	width: 1000px; 
+	background-image: url("../images/page/banner.jpg");
+	background-repeat: no-repeat;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #666666; /********* YOUR BACKGROUND COLOR */
+}
+#mdlogo {
+	float: left;
+	height: 90px;
+	width: 168px;
+}
+#global {
+	float: right;
+	padding: 0px 0px 5px 5px;
+}
+#global2 {
+	float: right;
+	clear: right;
+	margin: 0px;
+	padding: 0px 10px 10px 12px;
+	*padding: 5px 10px 0px 10px; /* IE only padding */
+}
+#searchForm {
+	float: right;
+	padding: 20px 10px 0px 0px;
+	*padding: 10px 10px 0px 0px; /* IE only padding */
+}
+.searchButton {
+	left: -4px;
+	*left: -8px; /* IE only position */
+	position: relative;
+	top: 8px;
+	*top: 4px; /* IE only position */
+}
+.searchTextBox {
+	height: 16px;
+	font-size: .6875em; /* (10/16) */
+}
+#tools {
+	float: right;
+	clear: right;
+	margin: 5px 15px 0px 0px;
+	font-size: 85%;
+}
+#tools a {
+	color: #DCDCDC;
+    	text-decoration: none;
+}
+#tools a:hover {   	
+	text-decoration: underline;
+}
+#tools ul {
+	margin:0;
+	padding: 0;
+	list-style-type: none;
+	text-align: right;
+}
+#tools li {
+	display: inline;
+	margin: 0px 0px 0px 5px;
+	padding-left: 20px;
+} 
+.mail {
+	background-image: url("../images/page/mail.gif");
+	background-position: left;
+	background-repeat: no-repeat;
+}
+#page {
+	width: 1000px; /* DECREASE if PAGE LESS THAN 1000px fixed layout */
+	margin:0px;
+	background-color: #FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+}
+#footer {
+  Height: 90px; 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 80%;
+	clear: both;
+ 	background-image: url(../images/page/footer.jpg);
+	background-color: #2A579C;
+  	border-color: #2A579C;
+	text-align: center;
+	margin: 0px;
+  	padding: 10px 10px 10px 10px;
+}
+#footer p {
+	margin: 0px 5px .75em 0px;
+	font-size: 95%;
+}
+#footer a {
+	color: #FFFF99;
+   	text-decoration: none;	
+}
+#footer a:hover {   	
+	text-decoration: underline;
+}
+/*
+#footer table {
+  table-layout: fixed;
+  color: #ffffff;
+  font-size: 80%;
+}
+*/
+.text  {
+  text-decoration: none;
+  font-size: 11px;
+  color: 000000;
+  font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+}
+.text_left_content {
+  text-decoration: none;
+  font-size: 15px;
+  font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;  
+}
+.text_right_content {
+  text-decoration: none;
+  font-size: 15px;
+  font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;  
+}
+.header_left_content {
+  text-decoration: none;
+  font-size: 22px;
+  color: #296AAB;
+  font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; 
+  font-weight: normal;
+ }
+ .header_right_content {
+  text-decoration: none;
+  font-size: 18px;
+  color: #296AAB;
+  font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; 
+  font-weight: normal; 
+ }
