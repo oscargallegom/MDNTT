@@ -230,14 +230,10 @@ The Adaptation and Response Work Group of the Maryland Commission on Climate Cha
 <p class="text_left_content">
 <b>The training sessions that were cancelled in March will now be held on Tuesday, May 9, from 9:00 a.m. to noon. at Frederick Community College in Frederick, Maryland, and Friday, May 12, from 9:00 a.m. to noon at Chesapeake College in Wye Mills, Maryland.</b>   MDA has just completed a re-calibration of the MNTT to reflect the updated APEX model and some changes in the way grazing rotations are entered in the tool. Individuals who would like to learn how to use the calculation tool, as well as those who would like to become or remain Certified Verifiers under the education requirement for both programs, can gain the necessary proficiency (and credits) in the use of the MNTT by attending <b><u>one</b></u> of two training sessions.
 </p><p>
-Participants should bring a current Nutrient Management Plan, and updated Soil Conservation and Water Quality Plan, and if applicable, a Waste Storage Management Plan for the property to entered into the calculation tool (note that these documents are confidential and will require permission from the farmer or landowner to use them).  Those without access to these materials will be provided with inputs for a fictional farm so that they can learn how the tool works.  <b>Everyone planning to participate in the workshops will need to have an online account established in advance of the training dates.</b>  Accounts can be opened by going to the trading website, www.mdnutrienttrading.com,clicking on the "Login to CBNTT," and following the instructions found there. 
+Participants should bring a current Nutrient Management Plan, and updated Soil Conservation and Water Quality Plan, and if applicable, a Waste Storage Management Plan for the property to entered into the calculation tool (note that these documents are confidential and will require permission from the farmer or landowner to use them).  Those without access to these materials will be provided with inputs for a fictional farm so that they can learn how the tool works.  <b>Everyone planning to participate in the workshops will need to have an online account established in advance of the training dates.</b>  Accounts can be opened by going to the trading website, <a href="http://www.mdnutrienttrading.com/">www.mdnutrienttrading.com</a>, clicking on the "Login to CBNTT," and following the instructions found there. 
 <br></p><p>
 The workshops are open to Soil Conservation District personnel, farmers, landowners, and others with an interest in one or both programs.  <b>Space is limited to twenty participants so those who would like to attend should contact Susan Payne, MDA's Coordinator of the Ecosystem Markets and Certainty Programs, at susan.payne@maryland.gov ASAP but no later than Friday, May 5.</b>  More information and directions will be forwarded in advance of the workshops.
 </p>
-<br>
-
-<h2 class="header_left_content"><center><br><br> </center></h2>
-
 </div>
 
 <h2 class="header_left_content">What is Nutrient Trading?</h2>
