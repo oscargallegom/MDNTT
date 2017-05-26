@@ -211,7 +211,7 @@ body {
 <table width=675 cellpadding=15>
 <tr><td>
 <?php /* <h2 class="header_left_content">Welcome To Maryland's Nutrient Trading Program . . . </h2> */ ?>
-<h2 class="header_left_content">Welcome to the Maryland Nutrient Trading Program . . . . </h2>
+<h2 class="header_left_content">Welcome to the Maryland Nutrient Trading Program . . .  </h2>
 
 <div style="padding: 1em; border: 1px solid #296AAB">
 
