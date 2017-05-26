@@ -215,12 +215,6 @@ body {
 
 <div style="padding: 1em; border: 1px solid #296AAB">
 
-<h2 class="header_left_content"><center>Rescheduled Healthy Soils Workshops and $100,000 Grant Opportunity</center></h2>
-<p class="text_left_content">
-The Adaptation and Response Work Group of the Maryland Commission on Climate Change has rescheduled the regional workshops focusing on soil science and soil health that were cancelled in March because of the blizzard.  <b>The new dates for the workshops are April 21 at Chesapeake College in Wye Mills and April 26 at Frederick Community College in Frederick.</b>  The workshops also include a presentation on the guidelines and application process for a $100,000 Innovative Technology grant that will be awarded for projects dealing with the integration of nutrient reductions with climate change adaptation. <a href="/docs/HealthySoilsWorkshopsFlyer_update.pdf">Click here</a> to view the event flyer with more details and the agenda.
-</p>
-<br>
-
 <h2 class="header_left_content"><center>The Maryland Water Quality Trading Advisory Committee to Meet on May 1</center></h2>
 <p class="text_left_content">
 <b>The next meeting of the Trading Advisory Committee will be held on Monday, May 1, from 1:00 to 4:00 p.m., at the Maryland Department of the Environment’s headquarters, 1800 Washington Boulevard, Baltimore, MD. </b> The Committee acts as an ongoing consultative group to provide direction to the overall trading program and oversee further enhancement of the trading infrastructure.
