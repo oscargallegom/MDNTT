@@ -215,9 +215,9 @@ body {
 
 <div style="padding: 1em; border: 1px solid #296AAB">
 
-<h2 class="header_left_content"><center>The Maryland Water Quality Trading Advisory Committee to Meet on June 15</center></h2>
+<h2 class="header_left_content"><center>The Maryland Water Quality Trading Advisory Committee to Meet on September 18</center></h2>
 <p class="text_left_content">
-<b>The next meeting of the Trading Advisory Committee will be held on Monday, September 18, from 1:00 to 4:00 p.m., at the Maryland Department of Agriculture’s headquarters, 50 Harry S. Truman Parkway, Annapolis, MD. </b> The Committee acts as an ongoing consultative group to provide direction to the overall trading program and oversee further enhancement of the trading infrastructure. This month's meeting will focus on draft trading regulations.
+<b>The next meeting of the Trading Advisory Committee will be held on Monday, September 18, from 1:00 to 4:00 p.m., at the Maryland Department of the Environment’s headquarters, 1800 Washington Boulevard, Baltimore, MD. The Committee acts as an ongoing consultative group to provide direction to the overall trading program and oversee further enhancement of the trading infrastructure. This month’s meeting will again focus on draft trading regulations.
 </p><br>
 
 </div>
@@ -339,8 +339,8 @@ Maryland&rsquo;s Nutrient Trading Program is a public marketplace for the buying
 
 <p class="header_right_content" align=left>What's New</p>
 <ul class="text_right_content">
-<p><li><a href="http://www.mdnutrienttrading.com/docs/12-17-15_nutrient_trading_symposium_pr.doc">Press Release for Trading Symposium</a></p>
-<p><li><a href="http://www.mdnutrienttrading.com/docs/10-23-15_nutrient_trading_policy.doc">Press Release for Trading Policy Announcement</a></p>
+<!--<p><li><a href="http://www.mdnutrienttrading.com/docs/12-17-15_nutrient_trading_symposium_pr.doc">Press Release for Trading Symposium</a></p>-->
+<!--<p><li><a href="http://www.mdnutrienttrading.com/docs/10-23-15_nutrient_trading_policy.doc">Press Release for Trading Policy Announcement</a></p>-->
 <p><li><a href="http://www.mdnutrienttrading.com/docs/Nutrient-Trading-Policy-3-Pager-10-23-15.pdf">Maryland Nutrient Trading Policy Statement</a></p>
 </ul><p class="header_right_content" align=left>National Network on Water Quality Trading</p>
 <table class="text">
