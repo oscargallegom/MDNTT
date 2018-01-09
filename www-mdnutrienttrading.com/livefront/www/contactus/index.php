@@ -67,13 +67,14 @@ include "$include_dir/js_second_window.php"; */
   <table width=675>
   <tr>
   <td width=336>
-  <p><b>John Rhoderick</b></br>
+  <p><b>Susan Frick Payne</b></br>
+  Coordinator</br>
+  Ecosystem Markets and Certainty Programs</br>
   Maryland Department of Agriculture</br>
-  Office of Resource Conservation</br>
-  50 Harry S Truman Pkwy</br>
+  50 Harry S. Truman Parkway</br>
   Annapolis, MD 21401</br>
-  Phone: 410-841-5865</br>
-  Email: <a href="mailto:rhoderjc@maryland.gov">rhoderjc@maryland.gov</a>
+  Phone: 410-841-5897</br>
+  Email: <a href="mailto:susan.payne@maryland.gov">susan.payne@maryland.gov</a>
   </td>
   <td width=338>
   <p><b>Edwal Stone</b></br>
