@@ -128,9 +128,8 @@ body {
   <tr>
   <td width=365>
  <p><b>Susan Frick Payne</b></br>
-  Coordinator</br>
-  Ecosystem Markets and Certainty Programs</br>
   Maryland Department of Agriculture</br>
+  Ecosystem Markets and Certainty Programs</br>
   50 Harry S. Truman Parkway</br>
   Annapolis, MD 21401</br>
   Phone: 410-841-5897</br>
