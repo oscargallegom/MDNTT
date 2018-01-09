@@ -124,9 +124,9 @@ body {
 </td></tr>
 
 <tr><td>
-  <table width=700>
+  <table width=730>
   <tr>
-  <td width=361>
+  <td width=365>
  <p><b>Susan Frick Payne</b></br>
   Coordinator</br>
   Ecosystem Markets and Certainty Programs</br>
@@ -136,7 +136,7 @@ body {
   Phone: 410-841-5897</br>
   Email: <a href="mailto:susan.payne@maryland.gov">susan.payne@maryland.gov</a>
   </td>
-  <td width=338>
+  <td width=365>
   <p><b>Edwal Stone</b></br>
   Maryland Department of the Environment</br>
   Wastewater Permits Program</br>
