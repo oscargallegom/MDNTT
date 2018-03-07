@@ -215,10 +215,16 @@ body {
 
 <div style="padding: 1em; border: 1px solid #296AAB">
 
-<h2 class="header_left_content"><center>The Maryland Water Quality Trading Advisory Committee to Meet on September 18</center></h2>
+<h2 class="header_left_content"><center>The Maryland Water Quality Trading Advisory Committee to Meet on September 18
+Important Notice
+Please Read before Using MNTT
+</center></h2>
 <p class="text_left_content">
+ On March 19, the newest version of the baseline and credit calculation tool (Maryland Nutrient Tracking Tool or MNTTv.2) will be released on this website.   All existing accounts and projects will be available on the new version. <b>Anyone wishing to use assessments from the current version for submissions to either the Certainty or Agricultural Credit Certification Program will need to re-run them using the latest version since the results will differ. </b> 
 <b>The next meeting of the Trading Advisory Committee will be held on Monday, September 18, from 1:00 to 4:00 p.m., at the Maryland Department of the Environment’s headquarters, 1800 Washington Boulevard, Baltimore, MD.</b> The Committee acts as an ongoing consultative group to provide direction to the overall trading program and oversee further enhancement of the trading infrastructure. This month’s meeting will again focus on draft trading regulations.
 </p><br>
+<p>The current version will be archived for those with existing Certainty assessments, and access will be granted upon request to the Maryland Department of Agriculture (MDA). </p>
+<p>For questions or additional information, contact Susan Payne, MDA’s Coordinator of the Ecosystem Markets and Certainty Programs at nutrade.mda@maryland.gov.</p>
 
 </div>
 
