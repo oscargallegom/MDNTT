@@ -214,8 +214,8 @@ body {
 <h2 class="header_left_content">Welcome to the Maryland Nutrient Trading Program . . .  </h2>
 
 <div style="padding: 1em; border: 1px solid #296AAB">
-  <h2 class="header_left_content"><center><p>Important Notice</p>
-  Please Read before Using MNTT</center></h2>
+  <h2 class="header_left_content"><center><p>Important Notice <br> Please Read before Using MNTT</p>
+  </center></h2>
   <p class="text_left_content">
    On March 19, the newest version of the baseline and credit calculation tool (Maryland Nutrient Tracking Tool or MNTTv.2) will be released on this website.   All existing accounts and projects will be available on the new version. <b>Anyone wishing to use assessments from the current version for submissions to either the Certainty or Agricultural Credit Certification Program will need to re-run them using the latest version since the results will differ. </b> 
   <p>The current version will be archived for those with existing Certainty assessments, and access will be granted upon request to the Maryland Department of Agriculture (MDA). </p>
