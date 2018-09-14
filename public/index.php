@@ -270,11 +270,11 @@ Maryland&rsquo;s Nutrient Trading Program is a public marketplace for the buying
 
 </td></tr>
 
-<tr><td>
+<!-- <tr><td>
 <p class="text_left_content"><b>Learn more about Nutrient Trading here:</b></br>
 
 &nbsp;</p>
-</td></tr>
+</td></tr> -->
 
 </table>
 
