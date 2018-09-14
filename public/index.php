@@ -165,14 +165,9 @@ body {
   </ul>
   </div>
 </div>
-
-
-
 <!-- END OF BANNER -->
 
 <div id="page"> 
-
-
 <!-- PUT TOP NAV BAR HERE -->
   
 <table class="text" valign=top cell padding=0 border=0 width=1000px>
@@ -189,15 +184,8 @@ body {
 
 <tr>
 
-
-
 <!-- <td valign="center" valign=center width=675px class=text>  -->
-<td width=675px class=text>
-
-
-
-
-
+<td valign="top" valign=top width=675px class=text>
 
 <!-- BEGIN MAIN PAGE CONTENT -->
 
