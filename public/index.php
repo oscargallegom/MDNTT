@@ -227,11 +227,11 @@ body {
   </p>
 </div>
 
-<h2 class="header_left_content">What is Nutrient Trading?</h2>
+<!--<h2 class="header_left_content">What is Nutrient Trading?</h2>
 
 <p class= "text_left_content">
 Nutrient trading is a form of exchange (buying &amp; selling) of nutrient reduction credits.  These credits have a monetary value that may be paid to the seller for installing Best Management Practices (BMPs) to reduce nitrogen or phosphorous. In general, water quality trading utilizes a market-based approach that allows one source to maintain its regulatory obligations by using pollution reductions created by another source. As a market-based approach, increased efficiency and cost-effectiveness are achieved by letting the market determine costs. To achieve a desired load reduction, trades can take place between point sources (usually wastewater treatment plants), between point and nonpoint sources (a wastewater treatment plant and a farming operation) or between nonpoint sources (such as agriculture and urban stormwater sites or systems).
-</p>
+</p> -->
 
 </td></tr>
 </table>
