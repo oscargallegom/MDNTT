@@ -266,7 +266,7 @@ Maryland&rsquo;s Nutrient Trading Program is a public marketplace for the buying
 
 <p class="text_left_content"><a href="http://www.mda.state.md.us/nutrad/ntwhatis.php#NonPointSource"><b>Nonpoint Source Trading</b></a>
 </p>
-*/ ?>
+ ?>
 
 </td></tr>
 
