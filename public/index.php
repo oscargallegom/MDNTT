@@ -238,7 +238,7 @@ Nutrient trading is a form of exchange (buying &amp; selling) of nutrient reduct
 
 <!-- <p>&nbsp;</p> -->
 <table width=675 cellpadding=15>
-<tr><td>
+<!-- <tr><td>
 
 <h2 class="header_left_content">Why is there a need for a Nutrient Trading Program?</h2>
 
@@ -246,7 +246,7 @@ Nutrient trading is a form of exchange (buying &amp; selling) of nutrient reduct
 Over the years, pollution levels in the Chesapeake Bay have been increasing. Chief among these pollutants are nutrients, nitrogen and phosphorus.  Much has already been done to reduce these pollutants with the development of <a href="http://www.dnr.state.md.us/bay/tribstrat/">Maryland's Tributary Strategies</a>, but more is still needed. Over the last 15 years, federal, state and local programs have been developed to assist in mitigating the impacts of pollutants in the Bay; however, the amount of  public sector funding required to achieve the desired reductions has fallen short in meeting the goals of a clean Bay.</br>
  <a href="http://www.mdnutrienttrading.com/ntneed.php">More</a>   .  . .
 </p> 
-</td></tr>
+</td></tr> -->
 
 <tr><td>
 <h2 class="header_left_content">What is Maryland's Trading Program?</h2>
