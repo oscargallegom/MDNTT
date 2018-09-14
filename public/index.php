@@ -191,7 +191,8 @@ body {
 
 
 
-<td valign="center" valign=center width=675px class=text>
+<!-- <td valign="center" valign=center width=675px class=text>  -->
+<td width=675px class=text>
 
 
 
