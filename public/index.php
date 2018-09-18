@@ -235,7 +235,7 @@ Nutrient trading is a form of exchange (buying &amp; selling) of nutrient reduct
 Over the years, pollution levels in the Chesapeake Bay have been increasing. Chief among these pollutants are nutrients, nitrogen and phosphorus.  Much has already been done to reduce these pollutants with the development of <a href="http://www.dnr.state.md.us/bay/tribstrat/">Maryland's Tributary Strategies</a>, but more is still needed. Over the last 15 years, federal, state and local programs have been developed to assist in mitigating the impacts of pollutants in the Bay; however, the amount of  public sector funding required to achieve the desired reductions has fallen short in meeting the goals of a clean Bay.</br>
  <a href="http://www.mdnutrienttrading.com/ntneed.php">More</a>   .  . .
 </p> 
-</td></tr> -->
+</td></tr> 
 
 <tr><td>
 <h2 class="header_left_content">What is Maryland's Trading Program?</h2>
@@ -243,7 +243,7 @@ Over the years, pollution levels in the Chesapeake Bay have been increasing. Chi
 <p class="text_left_content">
 Maryland&rsquo;s Nutrient Trading Program is a public marketplace for the buying and selling of nutrient (nitrogen and phosphorous) credits.  The purpose of the Program ranges from being able to offset new or increased discharges to establishing economic incentives for reductions from all sources within a watershed and achieving greater environmental benefits than through,  existing regulatory programs. To facilitate trading, a web-based <a href="http://www.mdnutrienttrading.com/">Calculation Tool, Marketplace and Trading Registry</a> have been established. The Calculation Tool will assess credit generating capacity while the Market Place and Trading Registry will record approved credits and transactions and provide a means for the public to track the progress of Maryland's trading program.</br>
 <a href="http://www.mdnutrienttrading.com/ntwhatis.php">More</a>  . . . .
-</p> 
+</p> -->
 
 <?php /*
 <p class="text_left_content"><a href="http://www.mda.state.md.us/nutrad/ntwhatis.php#PointSource"><b>Point Source Trading</b></a>
